@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrusti-4081&label=Profile%20views&color=0e75b6&style=flat" alt="shrusti-4081" /> </p>
 
-- 🔭 I’m currently working on **Java script**
+- 🔭 I’m currently working on **CSS**
 
 - 🌱 I’m currently studying **Computer sciencs**
 
